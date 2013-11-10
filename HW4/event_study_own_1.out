@@ -1,0 +1,29 @@
+#for the event: 
+            i_numshares_buy = 100
+            f_price_cutoff = 5.0
+            if (f_symprice_actualclose_today < f_price_cutoff):
+
+##############################################################################################3
+Finding Events
+reading in the raw data: ---------------------- 
+
+cachefilename is: /tmp/QSScratch/qstk-Yahoo-2556833-1930636-6943758257767199897.pkl
+cache miss
+beginning hardread
+data_item(s): close
+symbols to read: ['SPY']
+/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/SPY.csv
+end hardread
+saving to cache
+end saving to cache
+reading took 0.223959922791 seconds
+Details of the Performance of the portfolio
+Data Range :  2008-01-03 16:00:00  to  2009-12-31 16:00:00
+Sharpe Ratio of Fund : -0.418250605186
+Sharpe Ratio of SPY : -0.136627089609
+Total Return of Fund :  1.52154
+Total Return of SPY : 0.806041335453
+Standard Deviation of Fund :  0.220488442984
+Standard Deviation of SPY : 0.021910351879
+Average Daily Return of Fund :  -0.00580927771057
+Average Daily Return of SPY : -0.000188575774111
