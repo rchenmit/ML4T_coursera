@@ -3,4 +3,4 @@ ML4T_coursera
 
 
 
-# machine learning for trading
+* computational investing class on coursera
